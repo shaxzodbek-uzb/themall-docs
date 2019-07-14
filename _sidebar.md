@@ -1,0 +1,8 @@
+* [Bosh sahifa](/)
+* [Foydalanuvchi](users.md)
+* [Mahsulotlar](/)
+* [Buyurtmalar](orders.md)
+* [Kategoriyalar](/)
+* [Kassa](/)
+* [Logistika](/)
+* [Hisobot](/)
