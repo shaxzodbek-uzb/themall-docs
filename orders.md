@@ -36,9 +36,12 @@ Scoring ishlatish vaqtida xatolik yuzaga kelsa avvalo jo'natilgan so'rovlar ro'y
 ![scoring xatoliklari](_media/scoring-request-errors.jpg)
 
 Bu orqali quyidagi ko'rinishdagi xatoliklarni ko'rib chiqish mumkin bo'ladi:
-![scoring xatoliklari](_media/scoring-request-not-found.jpg)
+![scoring xatoliklari](_media/scoring-request-not-found.JPG)
 
 `To'g'ri so'rovning` ko'rinishi esa quyidagicha bo'lishi kerak:
+![scoring xatoliklari](_media/scoring-request-success.JPG)
+
+![scoring xatoliklari](_media/scoring-request-success-view.JPG)
 
 
 
